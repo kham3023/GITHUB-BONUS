@@ -5,7 +5,7 @@
 - `<Olivier Roelofs>` | `<s3917398>` | `@<roelofole-source>`
 - `<Kes Hamminga>` | `<s3852644>` | `@<kham3023>`
 - `<Noa Bunders>` | `<s393580>` | `@<Noa20266767>`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `<Ties Kakebeeke>` | `<s3711404>` | `@<Tieskak>`
 
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
