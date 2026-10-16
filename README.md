@@ -6,7 +6,8 @@
 - `<Kes Hamminga>` | `<s3852644>` | `@<kham3023>`
 - `<Noa Bunders>` | `<s393580>` | `@<Noa20266767>`
 - `<Ties Kakebeeke>` | `<s3711404>` | `@<Tieskak>`
-
+- `<Lotte Potting>` | `<s3948102>` | `@<LOTT385>`
+  
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
 
